@@ -1,2 +1,2 @@
 # WASA
-Course of Sapienza
+WASA - WEB AND SOFTWARE ARCHITECTURE
